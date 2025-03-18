@@ -1,4 +1,3 @@
-```markdown
 # Personal Finance Health Metric
 
 ## Idea:
